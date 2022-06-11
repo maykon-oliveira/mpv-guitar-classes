@@ -1,4 +1,7 @@
-### Escala de dó maior
+---
+title: Conteúdo básico
+---
+### Escala de DÓ maior
 
 > DÓ - RÉ - MÍ - FÁ - SOL - LÁ - SÍ
 
@@ -20,12 +23,25 @@ O "m" (m minúsculo) significa _menor_, então "Fm" ler-se "Fá menor", "Dm" ler
 
 ### Primeiros acordes
 
-
 |  |  |  |
 | ------ | ------ | ------ |
-| ![Am](acordes/Am.PNG) | ![G](acordes/C.PNG) | ![G](acordes/G.PNG) |
+| ![Am](acordes/Am.PNG) | ![C](acordes/C.png) | ![G](acordes/G.PNG) |
 
-![](acordes/batida-1.PNG)
+Ritmo
+
+![Batida 1](acordes/batida-1.PNG)
+
+Musicas:
+
+- Am C G
+
+|  |  |
+| ------ | ------ |
+| ![D](acordes/D.PNG) | ![Em](acordes/Em.PNG) |
+
+Musicas:
+
+- G D Em C
 
 ### Nome das cordas
 
