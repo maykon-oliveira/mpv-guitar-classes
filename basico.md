@@ -1,9 +1,8 @@
 ---
 title: Conteúdo básico
 ---
-### Escala de DÓ maior
 
-> DÓ - RÉ - MÍ - FÁ - SOL - LÁ - SÍ
+# Parte 1
 
 ### Cifras
 
@@ -43,15 +42,22 @@ Musicas:
 
 - G D Em C
 
-### Nome das cordas
+# Parte 2
 
-As cordas do violão/guitarra se contam de baixo para cima. A 1ª tem o som mais agudo (fino), e a última mais grave (grosso).
+Ritmo Valsa 
 
-| Corda | Nome |
-| ------ | ------ |
-| 6º | MÍ |
-| 5º | LÁ |
-| 4º | RÉ |
-| 3º | SOL |
-| 2º | SÍ |
-| 1º | MÍ |
+![batida-2](acordes/batida-2.PNG)
+
+![F](acordes/F.PNG)
+
+Músicas:
+
+- F C
+
+|  |  |  |
+| ------ | ------ | ------ |
+| ![E](acordes/E.PNG) | ![B](acordes/B.PNG) | ![C#m](acordes/C%23m.PNG) |
+
+|  |
+| ------ |
+| ![A](acordes/A.PNG) |
